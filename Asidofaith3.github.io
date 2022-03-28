@@ -73,7 +73,7 @@
 	<body>
 		<div class="Top">
 			<h1 class="h1">FAITH A. ASIDO</h1>
-				<img src="1647841708250.jpg" alt="1647841708250" class="Picture">
+				<img src="1647841709745.jpg" alt="1647841709745" class="Picture">
 				<p>BSIT Student</p>
 				<a href="mailto:faith.asido@lspu.edu.ph">faith.asido@lspu.edu.ph</a>
 				<br>
@@ -82,11 +82,11 @@
 
 		<div class="Middle">
 			<h2 class="h2">Profile</h2>
-				<p>My name is Faith A. Asido and I’m 20 years old. My birthday is February 3, 2002 at Paete, Laguna. 
-				I live in Paete, Laguna. My parents are Veronica A. Asido and Jerry A. Asido I have 3 siblings,
-				my older brother and sister. Their name is Jake A. Asido, John Carlo A. Asido I graduated elementary in
-				Paete Elementary School and for junior Poten & Eliseo M. Quesada Memorial National High School and senior high school is in
-				Siniloan Integrated National High I’m currently taking a Bachelor of Science in Information Technology course.</p>
+				<p>My name is Faith A. Asido and I’m 20 years old. My birthday is February 3,2002 at Paete, Laguna. 
+				I live in Paete, Laguna Brgy. 7, Bagumbayan. My parents are Veronica A. Asido and Jerry C. Asido. I have 3 siblings,
+				my older brother and sister. Their names are Jake A. Asido, John Carlo A. Asido and Praise A. Asido. I graduated elementary in
+				Paete Elementary School and for junior Poten & Eliseo M. Quesada Memorial National High and senior high school is in
+				Siniloan Integrated National High. I’m currently taking a Bachelor of Science in Information Technology course.</p>
 		</div>
 
 		<div class="Bottom">
